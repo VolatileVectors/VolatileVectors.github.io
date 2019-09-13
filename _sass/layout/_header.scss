@@ -39,7 +39,11 @@
 			line-height: 1;
 			padding: 1rem 1.75rem;
 			text-transform: uppercase;
-			visibility: visible;
+            visibility: visible;
+            
+            background: -webkit-linear-gradient(top left, #fd9802, #f400ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
 
 			&:hover {
 				border-color: _palette(invert, accent) !important;

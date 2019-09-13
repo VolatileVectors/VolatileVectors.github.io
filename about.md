@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aboutpage
 title: Volatile Vectors - About
 description: Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#
 sitemap:

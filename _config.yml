@@ -7,7 +7,7 @@ baseurl: ""
 url:     ""
 
 # Comments
-# disqus_shortname:   default
+disqus_shortname:   volatilevectors
 
 # Social
 # analytics-id:       "default"
@@ -17,7 +17,7 @@ github:    VolatileVectors
 
 # personal
 location: Berlin, GERMANY
-email:    helge.backhaus@gmail.com
+email:    helge.backhaus+volatilevectors@gmail.com
 
 # Other
 background_image: /images/bg.jpg
