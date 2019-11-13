@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Volatile Vectors"
+title:  "Resources for VR development in Unity"
 date:   2019-09-11
-excerpt: "Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#"
+excerpt: "Resources for VR development in Unity"
 image: "/images/pic01.png"
 ---
 

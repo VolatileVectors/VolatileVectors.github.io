@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All mixed up
+title: Projects
 description: Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#
 sitemap:
     priority: 0.7

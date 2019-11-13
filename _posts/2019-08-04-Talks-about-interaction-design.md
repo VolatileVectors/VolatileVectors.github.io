@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Volatile Vectors"
+title:  "Talks and presentations about interaction design for VR"
 date:   2019-09-11
-excerpt: "Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#"
+excerpt: "Talks and presentations about interaction design for VR"
 image: "/images/pic01.png"
 ---
 
