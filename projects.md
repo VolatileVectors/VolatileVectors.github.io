@@ -1,27 +1,61 @@
 ---
 layout: page
-title: Projects
-description: Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#
+title: Volatile Vectors - Projects
+description: Virtual Reality Prototypes, Projects, and Assets
 sitemap:
     priority: 0.7
     lastmod: 2019-09-11
     changefreq: weekly
 ---
+## SLiquid
+
+SLiquid is a simple and lighweight VR-ready fluid simulation suitable for Unity's legacy, LWRP & URP render pipelines. Inspired by [Job/Vaction Simulator's liquids](https://uploadvr.com/job-simulator-coffee) the focus is on performance instead of physical acuracy, making it a viable choice not only for desktop but also mobile hardware like the Oculus Quest.
+
+{% include youtube.html id="qtwuqpOueMI" %}
+
+Get it [here](https://github.com/VolatileVectors/SLiquid).
+
+## SnapXR
+
+<span class="image left"><img src="{{ "/images/hmd.jpg" | absolute_url }}" alt="" /></span>
+
+SnapXR is a VR-enabled GIF replay recorder for Unity. It automatically records the past few seconds of gameplay to a GIF file on demand. Frames are grabbed using Unity's AsyncGPUReadback.Request API to grab frames without stalling. GIF Encoding is done in a lowpriority backgroundthread in order to not interfer with the main gameplay loop. SnapXR is provided as an easy to configure component that can be attached to any camera (normal and stereoscopic alike) to record GIFs from whatever a camera renders in Unity.
+
+Get it [here](https://github.com/VolatileVectors/SnapXR).
+
 ## All mixed up
 
-<span class="image left"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span>
+<div class="box alt">
+		<div class="row 50% uniform">
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+		</div>
+	</div>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+## Gumshoe Inc.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
-
-<span class="image left"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+<div class="box alt">
+		<div class="row 50% uniform">
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span></div>
+		</div>
+	</div>

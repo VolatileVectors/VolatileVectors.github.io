@@ -1,28 +1,26 @@
 ---
 layout: post
 title:  "Talks and presentations about interaction design for VR"
-date:   2019-09-11
+date:   2019-08-04
 excerpt: "Talks and presentations about interaction design for VR"
-image: "/images/pic01.png"
+image: "/images/interaction.jpg"
 ---
+## Interactions in VR
+Interaction Design in VR: Valve's Lessons
+{% include youtube.html id="_vQo0ApkAtI" %}
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+Fantastic Contraption and why VR Menus Suck
+{% include youtube.html id="ASXST_iyhl4" %}
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+Designing a HUD for a Third-Person VR Game
+{% include youtube.html id="f8an45s_-qs" %}
 
-Open a terminal window or a command line and ```cd``` to that location.
+Designing to Minimize Simulation Sickness in VR Games
+{% include youtube.html id="2UF-7BVf1zs" %}
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+[The Door Problem](http://www.lizengland.com/blog/2014/04/the-door-problem)
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+Valve's Own Kerry Davis' HLVR Door Talk
+{% include youtube.html id="9kzu2Y33yKM" %}
+
+[Tomato Presence](https://owlchemylabs.com/tomatopresence)
