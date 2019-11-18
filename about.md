@@ -9,7 +9,8 @@ sitemap:
 ---
 ## About our Site
 
-<span class="image left"><img src="{{ "/images/hmd.png" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/pane-in-the-glass.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/job-vacation-simulator.jpg" | absolute_url }}" alt="" /></span>
 
 ### Hire me
 <div class="box">
