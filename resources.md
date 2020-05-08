@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Volatile Vectors - Blog
+title: Volatile Vectors - Resources
 description: Development Updates, Projects, Tutorials
 sitemap:
     priority: 1.0
