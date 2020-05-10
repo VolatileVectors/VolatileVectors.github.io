@@ -28,14 +28,41 @@ SnapXR is a VR-enabled GIF replay recorder for Unity. It automatically records t
 
 Get it [here](https://github.com/VolatileVectors/SnapXR).
 
-## All mixed up
+## Diegetic Interface Sample
 
-<div class="box alt">
-    <div class="row 50% uniform">
-        <div class="4u"><span class="image fit"><img src="{{ "/images/AMU1.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ "/images/AMU2.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ "/images/AMU3.jpg" | absolute_url }}" alt="" /></span></div>
-    </div>
-</div>
+A small self contained sample showing how to build diegetic interfaces using [Tilia's](https://github.com/ExtendRealityLtd?q=tilia) controllables prefabs:
 
-## Gumshoe Inc.
+{% include youtube.html id="Uspp3LwRN2k" %}
+
+Get it [here](https://github.com/VolatileVectors/Tilia-Controllables).
+
+## Neon Jungle
+
+A procedurally generated rouge-lite, with configurable smooth locomotion and gaze-based interactions:
+
+{% include youtube.html id="Gb5isKzjzfY" %}
+
+In collaboration with [Dustin Lacewell](https://github.com/dustinlacewell).
+
+## Unstable Universes
+
+Motivated by this [Solar System](https://www.youtube.com/watch?v=7axImc1sxa0) and the arrival of Unity's new Job system Unstable Universes was born.
+Due to the magic of the Job system, Unity Mathematics, and the Burst Compiler the trajectory simulation can handle a few hundred thousand timesteps per frame updating in real time, instead of taking over a second for a few thousand steps:
+
+{% include youtube.html id="5SRGLvR3qH8" %}
+
+Afterwards you can take a trip through it:
+
+{% include youtube.html id="yvjiz8kkVOc" %}
+
+The project and code can be found [here](https://github.com/VolatileVectors/Unstable-Universes).
+(The non-free art assets used had to be stripped from the github repository though)
+
+## Entanglement
+
+This started as a [VR Jam 2020](https://itch.io/jam/vr-jam-2020) idea with the theme "One tool many jobs". A shooter engineered around a quantum entanglement revolver using different types of ammunition to manipulate objects and bend time and space.
+
+{% include youtube.html id="M8EpycnaDbM" %}
+
+The project and code can be found [here](https://github.com/VolatileVectors/Entanglement).
+(The non-free art assets used had to be stripped from the github repository though)
