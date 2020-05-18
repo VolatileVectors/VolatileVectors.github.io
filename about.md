@@ -9,21 +9,19 @@ sitemap:
 ---
 ## About Volatile Vectors
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+<span class="image left"><img src="{{ "/images/pane-in-the-glass.jpg" | absolute_url }}" alt="Pane in the glass" /></span>
 
-<span class="image left"><img src="{{ "/images/pane-in-the-glass.jpg" | absolute_url }}" alt="" /></span>
+One of VR’s biggest promises is the fundamental concept of presence, creating unique opportunities for enhanced entertainment. Even mundane everyday tasks can be fun and enjoyable in VR. Point in case being games like *Job & Vacation Simulator* or even *Pane in the glass*, a game about cleaning windows on the facade of a skyscraper while dodging birds. The sensation of being there instead of just interacting with the environment on a flat-screen has the power to induce vertigo, but also to make just fooling around with the surroundings compelling.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+Presence in VR is amplified further by the fact, that interactions are much more natural. Even with the abstraction of current generation VR controllers, interactions feel surprisingly intuitive and more meaningful, then achieving complex task via the simple press of a button.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
+VR also holds the power to generate deeply impactful – and very real – empathy. Immersed in VR, otherwise anonymous stories can transform into a real understanding of the emotional state – joy, pain, fear, distress, … – of its protagonists. Providing very tangible experiences, that allow for an emotional connection rarely possible in movies or traditional games. Because VR as a medium allows you to truly take a new perspective.
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   
+ <span class="image right"><img src="{{ "/images/job-vacation-simulator.jpg" | absolute_url }}" alt="Job & Vacation Simulator" /></span>
 
-<span class="image right"><img src="{{ "/images/job-vacation-simulator.jpg" | absolute_url }}" alt="" /></span>
+Looking at the movie and video game industry it is considered to be very hard to craft big effect heavy blockbuster movies, because of the costs involved. At the same time there is a thriving independent movie scene, which focuses on *smaller* more constrained settings and themes mainly driven by character development, intricate personal stories and putting an emphasis on dialogue instead of big action set pieces. The video game industry on the other hand has the inverse problem. It's relatively easy to craft big action epics even for small studios, while writing good dialogue, relatable well crafted characters, and personal stories are hard, not the least because it's harder to keep players engaged and interested, but also because making typically very linear stories work in an interactive medium is not an easy task. VR presents an opportunity to craft more intimate, meaningful experiences as it has the power to explore new concepts of storytelling and how users interact with a story in a *smaller* setting.  This is partly due to the engagement naturally being higher. Completely immersed in a virtual reality, it demands a commitment other forms of entrainment simply can not compete with. Users need to dedicate time to exclusively interact with an experience for a while without any distractions that would diminish their ability to empathize with characters for instance. Another reason is VR is perfectly suited for room scale experiences, that take place in small and confined, but highly detailed and interactive places. Overall this can be a burden in terms of getting users into VR at all, but at the same time a chance to offer more meaningful and powerful experiences.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
-
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+Consequently all this extents far beyond just entertainment.
 
 ### Contact me
 <div class="box">
@@ -31,3 +29,7 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
   If you are interested in collaborating on exiting VR projects, have an open developer position, or a need for consulting on VR development, feel free to get in touch with me via the form below.
   </p>
 </div>
+
+
+
+
