@@ -3,8 +3,8 @@ title:       Volatile Vectors
 bio:         'Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#'
 description: "Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#"
 locale:      en_US
-baseurl: "www.volatilevectors.de"
-url:     ""
+baseurl: "/"
+url:     "https://www.volatilevectors.de"
 
 # Comments
 disqus_shortname:   volatilevectors
