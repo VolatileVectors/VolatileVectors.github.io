@@ -4,7 +4,7 @@ bio:         'Virtual Reality Development, Spacial Computing & Interaction Desig
 description: "Virtual Reality Development, Spacial Computing & Interaction Design, Unity, C#"
 locale:      en_US
 baseurl: "www.volatilevectors.de"
-url:     "www.volatilevectors.de"
+url:     "/"
 
 # Comments
 disqus_shortname:   volatilevectors
