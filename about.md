@@ -30,7 +30,7 @@ VR provides many interesting challenges and design problems. These can be techni
 ### Contact me
 <div class="box">
   <p>
-  If you are interested in collaborating on exiting VR projects, have an open developer position, or a need for consulting on VR development, feel free to get in touch with me via the form below.
+  If you are interested in collaborating on exiting VR projects or just having some professional discourse on anything VR development, feel free to get in touch with me via the form below.
   </p>
 </div>
 
